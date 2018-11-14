@@ -1,0 +1,59 @@
+Code,country_name,Continent,English_Official,Region,SurfaceArea,IndepYear,Population,LifeExpectancy,GNP,GNPOld,LocalName,GovernmentForm,HeadOfState,Capital,Code2
+ATG,Antigua and Barbuda,North America,Y,Caribbean,442,1981,68000,70.5,612,584,Antigua and Barbuda,Constitutional Monarchy,Elisabeth II,63,AG
+AUS,Australia,Oceania,Y,Australia and New Zealand,7741220,1901,18886000,79.8,351182,392911,Australia,"Constitutional Monarchy, Federation",Elisabeth II,135,AU
+BHS,Bahamas,North America,Y,Caribbean,13878,1973,307000,71.1,3527,3347,The Bahamas,Constitutional Monarchy,Elisabeth II,148,BS
+BLZ,Belize,North America,Y,Central America,22696,1981,241000,70.9,630,616,Belize,Constitutional Monarchy,Elisabeth II,185,BZ
+BRB,Barbados,North America,Y,Caribbean,430,1966,270000,73,2223,2186,Barbados,Constitutional Monarchy,Elisabeth II,174,BB
+BWA,Botswana,Africa,Y,Southern Africa,581730,1966,1622000,39.3,4834,4935,Botswana,Republic,Festus G. Mogae,204,BW
+CAN,Canada,North America,Y,North America,9970610,1867,31147000,79.4,598862,625626,Canada,"Constitutional Monarchy, Federation",Elisabeth II,1822,CA
+CMR,Cameroon,Africa,Y,Central Africa,475442,1960,15085000,54.8,9174,8596,Cameroun/Cameroon,Republic,Paul Biya,1804,CM
+DMA,Dominica,North America,Y,Caribbean,751,1978,71000,73.4,256,243,Dominica,Republic,Vernon Shaw,586,DM
+ERI,Eritrea,Africa,Y,Eastern Africa,117600,1993,3850000,55.8,650,755,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652,ER
+ETH,Ethiopia,Africa,Y,Eastern Africa,1104300,-1000,62565000,45.2,6353,6180,YeItyop´iya,Republic,Negasso Gidada,756,ET
+FJI,Fiji Islands,Oceania,Y,Melanesia,18274,1970,817000,67.9,1536,2149,Fiji Islands,Republic,Josefa Iloilo,764,FJ
+FSM,"Micronesia, Federated States of",Oceania,Y,Micronesia,702,1990,119000,68.6,212,0,Micronesia,Federal Republic,Leo A. Falcam,2689,FM
+GBR,United Kingdom,Europe,Y,British Islands,242900,1066,59623400,77.7,1378330,1296830,United Kingdom,Constitutional Monarchy,Elisabeth II,456,GB
+GHA,Ghana,Africa,Y,Western Africa,238533,1957,20212000,57.4,7137,6884,Ghana,Republic,John Kufuor,910,GH
+GMB,Gambia,Africa,Y,Western Africa,11295,1965,1305000,53.2,320,325,The Gambia,Republic,Yahya Jammeh,904,GM
+GRD,Grenada,North America,Y,Caribbean,344,1974,94000,64.5,318,0,Grenada,Constitutional Monarchy,Elisabeth II,916,GD
+GUY,Guyana,South America,Y,South America,214969,1966,861000,64,722,743,Guyana,Republic,Bharrat Jagdeo,928,GY
+IND,India,Asia,Y,Southern and Central Asia,3287263,1947,1013662000,62.5,447114,430572,Bharat/India,Federal Republic,Kocheril Raman Narayanan,1109,IN
+IRL,Ireland,Europe,Y,British Islands,70273,1921,3775100,76.8,75921,73132,Ireland/Éire,Republic,Mary McAleese,1447,IE
+JAM,Jamaica,North America,Y,Caribbean,10990,1962,2583000,75.2,6871,6722,Jamaica,Constitutional Monarchy,Elisabeth II,1530,JM
+KEN,Kenya,Africa,Y,Eastern Africa,580367,1963,30080000,48,9217,10241,Kenya,Republic,Daniel arap Moi,1881,KE
+KIR,Kiribati,Oceania,Y,Micronesia,726,1979,83000,59.8,40.7,0,Kiribati,Republic,Teburoro Tito,2256,KI
+KNA,Saint Kitts and Nevis,North America,Y,Caribbean,261,1983,38000,70.7,299,0,Saint Kitts and Nevis,Constitutional Monarchy,Elisabeth II,3064,KN
+LBR,Liberia,Africa,Y,Western Africa,111369,1847,3154000,51,2012,0,Liberia,Republic,Charles Taylor,2440,LR
+LCA,Saint Lucia,North America,Y,Caribbean,622,1979,154000,72.3,571,0,Saint Lucia,Constitutional Monarchy,Elisabeth II,3065,LC
+LSO,Lesotho,Africa,Y,Southern Africa,30355,1966,2153000,50.8,1061,1161,Lesotho,Constitutional Monarchy,Letsie III,2437,LS
+MHL,Marshall Islands,Oceania,Y,Micronesia,181,1990,64000,65.5,97,0,Marshall Islands/Majol,Republic,Kessai Note,2507,MH
+MLT,Malta,Europe,Y,Southern Europe,316,1964,380200,77.9,3512,3338,Malta,Republic,Guido de Marco,2484,MT
+MUS,Mauritius,Africa,Y,Eastern Africa,2040,1968,1158000,71,4251,4186,Mauritius,Republic,Cassam Uteem,2511,MU
+MWI,Malawi,Africa,Y,Eastern Africa,118484,1964,10925000,37.6,1687,2527,Malawi,Republic,Bakili Muluzi,2462,MW
+NAM,Namibia,Africa,Y,Southern Africa,824292,1990,1726000,42.5,3101,3384,Namibia,Republic,Sam Nujoma,2726,NA
+NGA,Nigeria,Africa,Y,Western Africa,923768,1960,111506000,51.6,65707,58623,Nigeria,Federal Republic,Olusegun Obasanjo,2754,NG
+NRU,Nauru,Oceania,Y,Micronesia,21,1968,12000,60.8,197,0,Naoero/Nauru,Republic,Bernard Dowiyogo,2728,NR
+NZL,New Zealand,Oceania,Y,Australia and New Zealand,270534,1907,3862000,77.8,54669,64960,New Zealand/Aotearoa,Constitutional Monarchy,Elisabeth II,3499,NZ
+PAK,Pakistan,Asia,Y,Southern and Central Asia,796095,1947,156483000,61.1,61289,58549,Pakistan,Republic,Mohammad Rafiq Tarar,2831,PK
+PHL,Philippines,Asia,Y,Southeast Asia,300000,1946,75967000,67.5,65107,82239,Pilipinas,Republic,Gloria Macapagal-Arroyo,766,PH
+PLW,Palau,Oceania,Y,Micronesia,459,1994,19000,68.6,105,0,Belau/Palau,Republic,Kuniwo Nakamura,2881,PW
+PNG,Papua New Guinea,Oceania,Y,Melanesia,462840,1975,4807000,63.1,4988,6328,Papua New Guinea/Papua Niugini,Constitutional Monarchy,Elisabeth II,2884,PG
+RWA,Rwanda,Africa,Y,Eastern Africa,26338,1962,7733000,39.3,2036,1863,Rwanda/Urwanda,Republic,Paul Kagame,3047,RW
+SDN,Sudan,Africa,Y,Northern Africa,2505813,1956,29490000,56.6,10162,0,As-Sudan,Islamic Republic,Omar Hassan Ahmad al-Bashir,3225,SD
+SGP,Singapore,Asia,Y,Southeast Asia,618,1965,3567000,80.1,86503,96318,Singapore/Singapura/Xinjiapo/Singapur,Republic,Sellapan Rama Nathan,3208,SG
+SLB,Solomon Islands,Oceania,Y,Melanesia,28896,1978,444000,71.3,182,220,Solomon Islands,Constitutional Monarchy,Elisabeth II,3161,SB
+SLE,Sierra Leone,Africa,Y,Western Africa,71740,1961,4854000,45.3,746,858,Sierra Leone,Republic,Ahmed Tejan Kabbah,3207,SL
+SWZ,Swaziland,Africa,Y,Southern Africa,17364,1968,1008000,40.4,1206,1312,kaNgwane,Monarchy,Mswati III,3244,SZ
+SYC,Seychelles,Africa,Y,Eastern Africa,455,1976,77000,70.4,536,539,Sesel/Seychelles,Republic,France-Albert René,3206,SC
+TON,Tonga,Oceania,Y,Polynesia,650,1970,99000,67.9,146,170,Tonga,Monarchy,Taufa'ahau Tupou IV,3334,TO
+TTO,Trinidad and Tobago,North America,Y,Caribbean,5130,1962,1295000,68,6232,5867,Trinidad and Tobago,Republic,Arthur N. R. Robinson,3336,TT
+TUV,Tuvalu,Oceania,Y,Polynesia,26,1978,12000,66.3,6,0,Tuvalu,Constitutional Monarchy,Elisabeth II,3424,TV
+TZA,Tanzania,Africa,Y,Eastern Africa,883749,1961,33517000,52.3,8005,7388,Tanzania,Republic,Benjamin William Mkapa,3306,TZ
+UGA,Uganda,Africa,Y,Eastern Africa,241038,1962,21778000,42.9,6313,6887,Uganda,Republic,Yoweri Museveni,3425,UG
+USA,United States,North America,Y,North America,9363520,1776,278357000,77.1,8510700,8110900,United States,Federal Republic,George W. Bush,3813,US
+VCT,Saint Vincent and the Grenadines,North America,Y,Caribbean,388,1979,114000,72.3,285,0,Saint Vincent and the Grenadines,Constitutional Monarchy,Elisabeth II,3066,VC
+VUT,Vanuatu,Oceania,Y,Melanesia,12189,1980,190000,60.6,261,246,Vanuatu,Republic,John Bani,3537,VU
+WSM,Samoa,Oceania,Y,Polynesia,2831,1962,180000,69.2,141,157,Samoa,Parlementary Monarchy,Malietoa Tanumafili II,3169,WS
+ZAF,South Africa,Africa,Y,Southern Africa,1221037,1910,40377000,51.1,116729,129092,South Africa,Republic,Thabo Mbeki,716,ZA
+ZMB,Zambia,Africa,Y,Eastern Africa,752618,1964,9169000,37.2,3377,3922,Zambia,Republic,Frederick Chiluba,3162,ZM
+ZWE,Zimbabwe,Africa,Y,Eastern Africa,390757,1980,11669000,37.8,5951,8670,Zimbabwe,Republic,Robert G. Mugabe,4068,ZW
