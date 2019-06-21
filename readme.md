@@ -8,4 +8,4 @@
 - Reinforcement Learning(Tic Tac Toe)
 - DQN (Cab driver retention)
 - Topic Modelling(Restricted Boltzmann Machines)
-
+- Gesture Recognition(Neural Net)
