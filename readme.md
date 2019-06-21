@@ -9,3 +9,4 @@
 - DQN (Cab driver retention)
 - Topic Modelling(Restricted Boltzmann Machines)
 - Gesture Recognition(Neural Net)
+- Stock Price predicition(1D-CNN)
